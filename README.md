@@ -1,4 +1,8 @@
-## Hi there 👋
+## About kirara_shiroyoru
+now learning: c++, flutter, github, maybe sound design<br>
+now playing: ARCAEA, Rotaeno, duet(it is hell hard), sometimes minesweeper or Kalpa <br>
+now trying: coding a game, writing a song, and finding a job<br>
+now interested in: anime, novels, rythm games, coding?, happy tree friends<br>
 
 <!--
 **kirara-shiroyoru/kirara-shiroyoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
